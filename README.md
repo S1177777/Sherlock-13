@@ -14,12 +14,12 @@
 
 **13个角色 / 13 Characters:**
 1. Sebastian Moran (塞巴斯蒂安·莫兰)
-2. Irene Adler (艾琳·艾德勒)
-3. Inspector Lestrade (雷斯垂德警官)
-4. Inspector Gregson (葛雷森警官)
-5. Inspector Baynes (贝恩斯警官)
-6. Inspector Bradstreet (布拉德斯特里特警官)
-7. Inspector Hopkins (霍普金斯警官)
+2. irene Adler (艾琳·艾德勒)
+3. inspector Lestrade (雷斯垂德警官)
+4. inspector Gregson (葛雷森警官)
+5. inspector Baynes (贝恩斯警官)
+6. inspector Bradstreet (布拉德斯特里特警官)
+7. inspector Hopkins (霍普金斯警官)
 8. Sherlock Holmes (夏洛克·福尔摩斯)
 9. John Watson (约翰·华生)
 10. Mycroft Holmes (麦考夫·福尔摩斯)
@@ -195,8 +195,18 @@ sh13_etu/
 ├── sh13.c                # 客户端源代码 / Client source code
 ├── server                # 编译后的服务器 / Compiled server
 ├── sh13                  # 编译后的客户端 / Compiled client
-├── SH13_0.png ~ SH13_12.png  # 角色卡图片 / Character card images
-├── SH13_*_120x120.png    # 物品符号图片 / Object symbol images
+├── SH13_0.png            # 角色卡图片 (13张: SH13_0.png to SH13_12.png)
+├── SH13_1.png            # Character card images
+├── ...                   # 
+├── SH13_12.png           # 
+├── SH13_pipe_120x120.png     # 烟斗图标 / Pipe icon
+├── SH13_ampoule_120x120.png  # 灯泡图标 / Light bulb icon
+├── SH13_poing_120x120.png    # 拳头图标 / Fist icon
+├── SH13_couronne_120x120.png # 王冠图标 / Crown icon
+├── SH13_carnet_120x120.png   # 笔记本图标 / Notebook icon
+├── SH13_collier_120x120.png  # 项链图标 / Necklace icon
+├── SH13_oeil_120x120.png     # 眼睛图标 / Eye icon
+├── SH13_crane_120x120.png    # 骷髅图标 / Skull icon
 ├── SH13_grille.png       # 游戏界面背景 / Game UI background
 ├── gobutton.png          # Go按钮 / Go button
 ├── connectbutton.png     # 连接按钮 / Connect button
